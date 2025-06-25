@@ -1,0 +1,10 @@
+dotenv
+langchain_google_genai
+langchain 
+langchain_community 
+bs4 
+tiktoken 
+chromadb
+pydantic
+langchain_tavily
+langgraph
